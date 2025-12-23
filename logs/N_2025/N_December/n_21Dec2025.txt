@@ -1,0 +1,20 @@
+Sun 21 Dec 2025, 11:38AM
+I need to get smarter, spend less time on distractions and more on reading books related to quantitative trading. Looks like I need to learn statistics which is good because I'm taking that in the winter. 
+My plan is to create tools for myself to help automate my life and become more familiar with programming and its conventions. As for quant trading, I want to incorporate more NLP methods when it comes to making correct trades. This will start with me creating a virtual training model. I'm excited to see what I will learn from statistics and how I can apply what I've learned to it. 
+Reading a book on data structures in python, not sure what I will get out of it but a reddit post mentioned that these concepts will be good to know. I can consider automating trading for my dad and working with him but I hate working with him. 
+As for gaming/creating art work? The passion isn't there anymore, at least it's not as intense as before. I want to learn skills that will make me money for me and Robyn and this family and that's it. I was considering booting in art but the more I learn, the less appealing that becomes. I want to be an unstoppable academic weapon I know I can be. 
+
+--Notes
+Python , interpreted language.
+'Executed' Python interpreter.
+Receives command, evaluates command, reports
+Imbedded IDLE?
+Debugger? - step by step execution
+Python concluded with newline
+Object oriented language / classes for basis of data types
+Int , float ( floating-point values) str for strings.
+Assignment statement
+Temp = 99.6
+Temp is the identifier (or name)
+Then associates it with object
+Temp --> float/98.6
