@@ -1,6 +1,0 @@
-Sun 21 Dec 2025, 02:10PM
-C vame fro BCPL
-Dennie Ritchie
-Middle level language
-C has no run time error checking
-C is a structured language
